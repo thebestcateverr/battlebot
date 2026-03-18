@@ -3,7 +3,9 @@ Custom vertical spinner battlebot design. Made for the 1lb antweight class, uses
 Ive been wanting to design a battlebot for some years now, ever since I figured out there were smaller weight classes that wouldnt cost thousands of dollars to make. I recently found hack club blueprint and decided to use it to actually make the bot! 
 
 <img width="1017" height="554" alt="Screenshot 2026-03-18 082127" src="https://github.com/user-attachments/assets/8065c8b7-f72d-47cd-b81c-4c630a40b71c" />
-<img width="1075" height="616" alt="Screenshot 2026-03-18 082135" src="https://github.com/user-attachments/assets/5534c6d2-1eb2-44e4-b686-0e5f6d2a7c91" />
+<img width="1110" height="652" alt="Screenshot 2026-03-18 083120" src="https://github.com/user-attachments/assets/9582a21f-e249-427c-9bad-18c0fc29e356" />
+
+
 
 Wiring diagram:
 ![IMG_1999](https://github.com/user-attachments/assets/061998a7-c6ad-491d-b1c4-83187617a93a)

@@ -30,5 +30,4 @@ BOM
 | Flysky FS2A Receiver | 1 | https://repeat-robotics.com/collections/electronics/products/flysky-fs2a-receiver |
 | Repeat Robotics AM32 Brushless Drive ESC - Bi-Directional | 1 | https://repeat-robotics.com/products/repeat-am32-drive-esc |
 | Repeat Robotics Dominion Dual Brushed Drive ESC | 1 | https://repeat-robotics.com/products/dominion-dual-brushed-drive-esc |
-
-
+| battery charger | 1 | https://palmbeachbots.com/products/b6-neo-compact-smart-charger-for-1-6s-lipo-b6neo?variant=42562370076854 |

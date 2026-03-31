@@ -1,6 +1,9 @@
 Custom vertical spinner battlebot design. Made for the 1lb antweight class, uses a variety of materials, primarily 3d printed parts and metal bar stock cut to shape. For assmbly, use the CAD document to check materials for prodution and as an assembly guide. 
 
-Ive been wanting to design a battlebot for some years now, ever since I figured out there were smaller weight classes that wouldnt cost thousands of dollars to make. I recently found hack club blueprint and decided to use it to actually make the bot! 
+Ive been wanting to design a battlebot for some years now, ever since I figured out there were smaller weight classes that wouldnt cost thousands of dollars to make. I recently found hack club blueprint and decided to use it to actually make the bot! This is an american antweight battle bot, weighing in at just under 1lb. It has a basic 4 wheel drive setup run by 2 planetary drive motors from repeat robotics.<img width="843" height="192" alt="Screenshot 2026-03-30 211934" src="https://github.com/user-attachments/assets/6616ad96-a3e4-4607-8f29-903e397d10b1" />
+The weapon is a spinner made of sandwiched steel and aluminum and the motor that drives it is Just cause robotics rdy hubmotor mini.
+<img width="182" height="524" alt="Screenshot 2026-03-30 212201" src="https://github.com/user-attachments/assets/c088ae64-27c8-4354-bff3-5d98820f1f05" />
+the plan is for the main body to be printed out of PCTG filament along with the timing pulleys and for the back bumper and the wheels to be made from TPU 95A
 
 <img width="1017" height="554" alt="Screenshot 2026-03-18 082127" src="https://github.com/user-attachments/assets/8065c8b7-f72d-47cd-b81c-4c630a40b71c" />
 <img width="1110" height="652" alt="Screenshot 2026-03-18 083120" src="https://github.com/user-attachments/assets/9582a21f-e249-427c-9bad-18c0fc29e356" />
